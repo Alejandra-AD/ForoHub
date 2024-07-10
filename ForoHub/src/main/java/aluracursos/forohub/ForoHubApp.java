@@ -11,3 +11,4 @@ public class ForoHubApp {
 				.run(ForoHubApp.class, args);
 	}
 }
+
